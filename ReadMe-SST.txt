@@ -22,3 +22,4 @@ Points to be taken care of :
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   
 6 -> Add lang = "en-IN" to <html> tag in all .php files.  
+7 -> Make a separate .php file for every design uploaded.
